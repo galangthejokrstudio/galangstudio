@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Minted Directory",
+    title: "leafgambar",
     logo: "",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -10,9 +10,9 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Minted Directory",
+    name: "leafgambar",
     description: "Example Description",
-    url: "https://example.com",
+    url: "https://leafgambar.netlify.app/",
     favicon: {
       image: "",
       emoji: "🍃",
