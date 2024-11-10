@@ -15,7 +15,7 @@ Get inspired by other directories:
 
 ---
 
-Here is your starting listings grid 👇
+Berikut adalah daftar awal Anda 👇
 
 ::search
 ::
