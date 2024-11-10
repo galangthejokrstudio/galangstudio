@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/Card.astro
 title: Example Listing
 description: This is an example listing to get you started.
 tags:
