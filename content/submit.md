@@ -1,8 +1,8 @@
-# Grow your business by submitting it to directory x.
+# Kembangkan bisnis Anda dengan mengirimkannya ke direktori x.
 
-Submit your startup to the Minted directory to showcase your business to a growing community of founders, developers, and entrepreneurs.
-- directory x gets **+100** visitors each month.
-- directory x gets **10** unique visitors each month.
+Kirimkan perusahaan rintisan Anda ke direktori Minted untuk memamerkan bisnis Anda kepada komunitas pendiri, pengembang, dan wirausahawan yang terus berkembang.
+- direktori x mendapat **+100** pengunjung setiap bulan.
+- direktori x mendapat **10** pengunjung unik setiap bulan.
 
 ---
 
