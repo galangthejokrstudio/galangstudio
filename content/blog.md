@@ -14,4 +14,4 @@ Read the best articles related to the directory.
 And earn SEO points by writing more articles.
 ::
 
-:blog-gridNnn
+:blog-grid-nnn
