@@ -1,8 +1,8 @@
 ---
-title: Example Listing
-description: This is an example listing to get you started.
+cover: /logo.png
+featured: true
 tags:
-  - freemium
+  - SAAS
 links:
   - name: test
     link: '#'
